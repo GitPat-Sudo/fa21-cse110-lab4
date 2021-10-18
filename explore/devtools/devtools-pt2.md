@@ -1,0 +1,2 @@
+1. The bug was that num1 and num2 were strings and being concatenated instead of being added together. 
+2. I would fix it using result =parseInt(num1) + parseInt(num2). There was a server side error on live edit but I <br> tried it on vscode and it seemed to have worked. 
