@@ -6,4 +6,4 @@
 5. There is an error for line 9, TypeError: Assignment to constant variable. We can't change the value<br>
    of a const value and that was what was attempted so an error was thrown. 
 6. There is nothing printed for line 13 because of the above ^ error. The script terminated. 
-7. 
+

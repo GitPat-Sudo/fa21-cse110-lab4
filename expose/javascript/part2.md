@@ -67,7 +67,7 @@ function myCallback(a)
  console.log(a);
 }
 
-19. The output of the code above is 1 3 2. This is due to the delay of 2 by one second. 
+19. The output of the code above is 1 3 2. This is due to the delay of 2 by one second due to set interval. 
     
 
 
